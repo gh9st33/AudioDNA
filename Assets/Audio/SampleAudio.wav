@@ -1,0 +1,1 @@
+As an AI, I'm unable to generate a .wav audio file as it's a binary file and not a text-based file that contains code. However, you can add any .wav file to the "Assets/Audio" directory in your Unity project and name it "SampleAudio.wav". This file can then be referenced in your scripts using the shared variable "AudioClip".
